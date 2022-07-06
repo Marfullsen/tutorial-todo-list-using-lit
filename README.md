@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://lit.dev/images/logo.svg"></img>
+  <img width="300" src="./docs/img/logo_lit.svg"></img>
 </p>
 
 <div align="center">
@@ -15,7 +15,7 @@
 </div>
 
 ## ¿De qué trata este _Tutorial_?
-En este tutorial se realizará un listado de cosas por hacer, también conocido en inglés como "To do list", el cual está disponible [aquí](https://lit.dev/tutorials/intro-to-lit/)
+En este tutorial se realizará un listado de cosas por hacer, también conocido en inglés como "To do list", el sitio del tutorial está disponible [aquí](https://lit.dev/tutorials/intro-to-lit/)
 
 ## Instalación del proyecto
 
@@ -24,6 +24,12 @@ Clonar y luego correr con algún servidor http.
 ```
 git clone https://github.com/Marfullsen/tutorial-todo-list-using-lit.git
 ```
+
+## Capturas de pantalla
+
+<div align="center">
+  <img src="./docs/img/gif-todo-list-lit.gif" alt="Screenshot">
+</div>
 
 ## Referencias
 - [Tutorial del TODO list en Lit](https://lit.dev/tutorials/intro-to-lit/)
