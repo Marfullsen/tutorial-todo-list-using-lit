@@ -41,3 +41,4 @@ git clone https://github.com/Marfullsen/tutorial-todo-list-using-lit.git
 
 ## Referencias
 - [Tutorial del TODO list en Lit](https://lit.dev/tutorials/intro-to-lit/)
+- [load lit-html directly from the JS](https://lit.dev/docs/v1/lit-html/getting-started/)
